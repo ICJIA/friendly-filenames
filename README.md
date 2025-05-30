@@ -134,4 +134,3 @@ The script is extensively commented for future developers:
 
 - Output directory (`files-renamed/`) is automatically ignored via `.gitignore`
 - Comprehensive `.gitignore` includes Node.js, OS-specific, and development tool files
-- Claude Code files (`.claude`) are also ignored
