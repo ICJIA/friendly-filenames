@@ -14,6 +14,8 @@ A bash script to normalize file names by converting them to lowercase, replacing
 
 No installation required. Simply ensure you have bash available (standard on Linux/macOS).
 
+**Tested on:** Ubuntu 22.04
+
 ## Usage
 
 1. Place your files in the `./files` directory (or specify a different source directory)
